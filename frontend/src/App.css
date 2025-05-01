@@ -1,0 +1,34 @@
+:root {
+  /* Dark Theme */
+  --header-bg: #1F2937;
+  --header-text: white;
+  --main-text:white;
+  --light-toggle-bg: #475569;
+  --light-toggle-text: white;
+  --login-button-bg: #2563eb;
+  --signup-button-bg: #3b82f6;
+  --main-bg:#101827;
+  --card-bg:#1F2937;
+  --header-hover: #1d4ed8;
+  --card-bg-hover: rgba(0, 0, 0, 0.05);
+  --login-bg:white;
+  --login-text:#0f172a;
+ 
+}
+
+.light-theme {
+  /* Light Theme */
+  --header-bg: #f8fafc;
+  --main-bg:#f8fafc;
+  --header-text: #0f172a;
+  --main-text:#0f172a;
+  --light-toggle-bg: #e2e8f0;
+  --light-toggle-text: #0f172a;
+  --login-button-bg: #1d4ed8; /* Slightly darker for light theme */
+  --signup-button-bg: #2563eb;
+  --card-bg: #f8fafc;
+  --card-bg-hover: rgba(0, 0, 0, 0.02);
+  --login-bg:#1C4ED8;
+  --login-text:white;
+
+}
